@@ -2,6 +2,10 @@
 
 An MCP (Model Context Protocol) server providing access to the WatchBase Data Feed API for querying watch metadata.
 
+<a href="https://glama.ai/mcp/servers/@watchdealer-pavel/watchbase-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@watchdealer-pavel/watchbase-mcp-server/badge" alt="WatchBase Server MCP server" />
+</a>
+
 ## About WatchBase API
 
 The WatchBase Data Feed API provides structured access to a comprehensive database of watch information, including brands, families (collections), specific watch models, reference numbers, technical details, and images. It allows developers to integrate detailed watch data into their applications. More information can be found on the [WatchBase API Documentation](https://api.watchbase.com/docs).
